@@ -20,11 +20,11 @@ if (dotenvPath) {
 module.exports = {
   // Session and Owner Information
   SESSION_ID: process.env.SESSION_ID || "", // Add your session ID here
-  SUDO: process.env.SUDO || "94789958225", // Add your admin/sudo number here
-  OWNER_NUM: process.env.OWNER_NUM || "237696900612", // Add the owner's number here
+  SUDO: process.env.SUDO || "94766359869", // Add your admin/sudo number here
+  OWNER_NUM: process.env.OWNER_NUM || "94766359869", // Add the owner's number here
   OWNER_NAME: process.env.OWNER_NAME || "PASIYA-MD", // Add the owner's name here
-  OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
-  OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
+  OWNER_EMAIL: process.env.OWNER_EMAIL || "pasidusampath730@gmail.com", // Add your email address here
+  OWNER_LOCATION: process.env.OWNER_LOCATION || "😒", // Add your location here
   OWNER_GITHUB: process.env.OWNER_GITHUB || "", // Add your GitHub profile URL here
 
   // API Keys for third-party services
@@ -36,7 +36,7 @@ module.exports = {
   BOT_NAME: process.env.BOT_NAME || "PASIYA-MD", // Add your bot's name here
   PREFIX: process.env.PREFIX || ".", // Add your command prefix here (e.g., ".", "!", "/")
   MODE: process.env.MODE || "public", // Set your bot mode (e.g., "public" or "private")
-  VERSION: process.env.VERSION || "2.5.0", // Bot version (do not change unless updating)
+  VERSION: process.env.VERSION || "2.5.0", // Bot versPASIYA-MD V21ion (do not change unless updating)
   STATUS_MESSAGE: process.env.STATUS_MESSAGE || "🚀 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝗽𝗮𝘀𝗶𝘆𝗮 𝗺𝗱", // Customize the bot's status message
 
   // Auto Features (toggle features on/off)
